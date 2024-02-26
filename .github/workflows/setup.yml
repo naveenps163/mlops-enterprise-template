@@ -9,7 +9,7 @@ on:
 # CONFIGURATION 
 #
 # 1. Set up the following secrets in your repository: 
-#   AZURE_RESOURCE_GROUP 
+    AZURE_RESOURCE_GROUP : OH-Demo-RG
 #   STORAGE_ACCOUNT 
 env:
   AZURE_RESOURCE_GROUP: OH-Demo-RG  #set this to your resource group name 
